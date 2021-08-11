@@ -113,5 +113,3 @@ Learn more about:
 
 ![](.gitbook/assets/grupo-2682%20%281%29.jpg)
 
-1. cvfghjk
-
