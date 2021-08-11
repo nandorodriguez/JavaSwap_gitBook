@@ -7,6 +7,7 @@
   * [JavaFlip](services/javaflip.md)
   * [JavaBid](services/javabid.md)
   * [Expresso Pool](services/expresso-pool.md)
+  * [Lucky Lotto](services/lucky-lotto.md)
   * [Java Farm](services/java-farm.md)
   * [JavaSwap](services/javaswap.md)
 * [🤓  Smart contracts](smart-contracts.md)
