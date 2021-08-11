@@ -2,7 +2,6 @@
 
 * [☕ JavaSwap Intro](README.md)
 * [🚀 Launch](master.md)
-* [💳  Javanomics](master-1.md)
 * [🤠  Services](services/README.md)
   * [JavaFlip](services/javaflip.md)
   * [JavaBid](services/javabid.md)
