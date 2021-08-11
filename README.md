@@ -5,7 +5,7 @@ description: >-
   JavaSwap is the people’s DeFi, and JAVA is their token.
 ---
 
-# <h1 style="color:red;">JavaSwap Intro</h1>
+#JavaSwap Intro
 
 
 
