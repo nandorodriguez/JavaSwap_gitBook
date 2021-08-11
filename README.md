@@ -13,21 +13,21 @@ description: >-
 
 JavaSwap is a cutting edge AMM and yield farm on Polygon \(MATIC\) with the fastest transaction speeds, the cheapest fees and the most intuitive user interface. JavaSwap is the people’s token, allowing anyone to rapidly swap without paying overly expensive fees. Here are some of its most unbeatable features:                             
 
-                            ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
+ ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
 
-                            ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
+ ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
 
-                            ![](.gitbook/assets/grupo-1115.png) - Faster and cheaper than both Uniswap and PancakeSwap
+ ![](.gitbook/assets/grupo-1115.png) - Faster and cheaper than both Uniswap and PancakeSwap
 
-                            ![](.gitbook/assets/grupo-1115.png) - Simple user interface for smooth user experience
+ ![](.gitbook/assets/grupo-1115.png) - Simple user interface for smooth user experience
 
-                            ![](.gitbook/assets/grupo-1115.png) - ERC-20 compatible
+ ![](.gitbook/assets/grupo-1115.png) - ERC-20 compatible
 
-                            ![](.gitbook/assets/grupo-1115.png) - High yield farming on Java Farm
+ ![](.gitbook/assets/grupo-1115.png) - High yield farming on Java Farm
 
-                            ![](.gitbook/assets/grupo-1115.png) - Professionally audited smart contracts
+ ![](.gitbook/assets/grupo-1115.png) - Professionally audited smart contracts
 
-                            ![](.gitbook/assets/grupo-1115.png) - Rigorous security mechanisms ensuring community confidence
+ ![](.gitbook/assets/grupo-1115.png) - Rigorous security mechanisms ensuring community confidence
 
 Our mission is to onboard a new generation of DeFi users with our vast array of innovative DeFi services including, but not limited to: swap, staking, farming, pools and games, which operate as a burning mechanism and much, much more. JavaSwap combines minimum user effort with maximum operational efficiency, streamlining AMM trading and onboarding a new generation of DeFi users. 
 
@@ -79,7 +79,7 @@ The Liquidity Pools \(LPs\) on JavaSwap are known as Espresso pools, our Espress
 
 Choose your pool, stake your tokens, then sit back and watch your JAVA accumulate! Espresso pools allow you to stake your tokens in open pools and earn massive returns via the JAVA token. The process is simple and instant, place your tokens in the corresponding pool and then you'll instantly start earning JAVA yield based on the total amount staked.
 
-                                                                   ![](.gitbook/assets/grupo-2674.svg) 
+![](.gitbook/assets/grupo-2674.jpg)
 
 ![](.gitbook/assets/trazado-16776.png)
 
@@ -91,7 +91,7 @@ Hello JAVA farmers, it’s time to harvest some liquidity for a nice JAVA yield!
 
 After providing liquidity and receiving your JAVA LP tokens, please select the pool from the farm page, approve the contract and click the plus sign, choosing the amount you want to stake and then confirm approval.
 
-                                                                   ![](.gitbook/assets/grupo-2674.svg)
+![](.gitbook/assets/grupo-2674.jpg)
 
 
 
@@ -105,7 +105,11 @@ We offer the best games for you to take advantage and use our token in the most 
 
 Learn more about:
 
-                                  ![](.gitbook/assets/grupo-2682.svg)  ![](.gitbook/assets/grupo-2687.svg)   ![](.gitbook/assets/grupo-2692.svg) 
+![](.gitbook/assets/grupo-2682%20%281%29.jpg)
+
+![](.gitbook/assets/grupo-2687.jpg)
+
+![](.gitbook/assets/grupo-2692.jpg)
 
 
 
