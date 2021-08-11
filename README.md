@@ -11,15 +11,27 @@ description: >-
 
 JavaSwap is a cutting edge AMM and yield farm on Polygon \(MATIC\) with the fastest transaction speeds, the cheapest fees and the most intuitive user interface. JavaSwap is the people’s token, allowing anyone to rapidly swap without paying overly expensive fees. Here are some of its most unbeatable features:
 
-![](.gitbook/assets/grupo-1122.svg)
+![](.gitbook/assets/grupo-1115.png) Ultra rapid transaction times 
+
+![](.gitbook/assets/grupo-1115.png) Ultra low transaction fees
+
+![](.gitbook/assets/grupo-1115.png) Faster and cheaper than both Uniswap and PancakeSwap 
+
+![](.gitbook/assets/grupo-1115.png) Simple user interface for smooth user experience 
+
+![](.gitbook/assets/grupo-1115.png) ERC-20 compatible
+
+![](.gitbook/assets/grupo-1115.png) High yield farming on Java Farm 
+
+![](.gitbook/assets/grupo-1115.png) Professionally audited smart contracts 
+
+![](.gitbook/assets/grupo-1115.png) Rigorous security mechanisms ensuring community confidence
 
 Our mission is to onboard a new generation of DeFi users with our vast array of innovative DeFi services including, but not limited to: swap, staking, farming, pools and games, which operate as a burning mechanism and much, much more. JavaSwap combines minimum user effort with maximum operational efficiency, streamlining AMM trading and onboarding a new generation of DeFi users.
 
 ![](.gitbook/assets/grupo-2424.png)
 
 Due to JavaSwap being part of the MATIC network, JavaSwap has the lowest transaction costs out of all the AMM’s, being much cheaper than both Ethereum based AMM’s such as Uniswap and even Binance Smart Chain based AMM’s such as PancakeSwap. We are the future of DeFi, and the future of DeFi is us! No other DEX or AMM can compete with our suite of services and our formation of future-proofed, formidable features. Buy now whilst the coffees are hot!
-
-![](.gitbook/assets/trazado-16776.png)
 
 ## ![](.gitbook/assets/grupo-2725.png)  Earn tokens with Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
 
