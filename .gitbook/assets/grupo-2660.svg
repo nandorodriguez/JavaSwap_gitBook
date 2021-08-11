@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="753" height="165.283" viewBox="0 0 753 165.283">
+  <g id="Grupo_2660" data-name="Grupo 2660" transform="translate(-611 -3170.07)">
+    <rect id="Rectángulo_579" data-name="Rectángulo 579" width="753" height="160.203" rx="20.102" transform="translate(611 3175.15)" fill="#fff0eb"/>
+    <text id="After_a_swap_is_completed_you_will_pay_a_very_small_transaction_fee._Part_of_this_transaction_fee_will_be_reallocated_back_to_the_Liquidity_Pools_and_an_even_smaller_amount_of_the_fee_will_be_sent_to_the_JavaSwap_treasury._The_exact_fees_change_depending_" data-name="After a swap is completed, you will pay a very small transaction fee. Part of this transaction fee will be reallocated back to the Liquidity Pools and an even smaller amount of the fee will be sent to the JavaSwap treasury. The exact fees change depending " transform="translate(646.559 3204.88)" fill="#816c73" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="13">After a swap is completed, you will pay a very small transaction fee. Part of this transaction fee will be reallocated </tspan><tspan x="0" y="37">back to the Liquidity Pools and an even smaller amount of the fee will be sent to the JavaSwap treasury. The exact </tspan><tspan x="0" y="61">fees change depending on the amount you’re swapping. The best way to find out what your fees are is by checking </tspan><tspan x="0" y="85">the details before your Swap. </tspan></text>
+    <g id="Grupo_2659" data-name="Grupo 2659">
+      <path id="Trazado_15991" data-name="Trazado 15991" d="M633.765,3180.277l-2.855-2.637.155-3.883-3.859-.454-2.158-3.233-3.388,1.9-3.646-1.348-1.624,3.531-3.743,1.051.762,3.811L611,3182.067l2.856,2.635-.156,3.884,3.86.454,2.156,3.234,3.39-1.9,3.645,1.349,1.625-3.531,3.741-1.052-.761-3.811ZM620.4,3186.31l-5.112-4.444,1.417-1.631,3.6,3.136,7.005-6.88,1.513,1.542Z" fill="#d86d25"/>
+    </g>
+  </g>
+</svg>

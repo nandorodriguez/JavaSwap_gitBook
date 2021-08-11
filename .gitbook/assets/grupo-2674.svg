@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="41" viewBox="0 0 182 41">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.263" y1="0.5" x2="-0.189" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe88d"/>
+      <stop offset="0.01" stop-color="#ffe88d"/>
+      <stop offset="0.069" stop-color="#f5d485"/>
+      <stop offset="0.246" stop-color="#da9e72"/>
+      <stop offset="0.42" stop-color="#c37261"/>
+      <stop offset="0.586" stop-color="#b14f54"/>
+      <stop offset="0.742" stop-color="#a5364b"/>
+      <stop offset="0.884" stop-color="#9d2745"/>
+      <stop offset="1" stop-color="#9b2244"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_2674" data-name="Grupo 2674" transform="translate(-896.5 -4322.936)">
+    <rect id="Rectángulo_587" data-name="Rectángulo 587" width="182" height="41" rx="12.375" transform="translate(896.5 4322.936)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_2673" data-name="Grupo 2673">
+      <g id="Grupo_2672" data-name="Grupo 2672">
+        <text id="I_want_to_know_more" data-name="I want to know more" transform="translate(914.862 4347.645)" fill="#fff2e4" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="-0.013em"><tspan x="0" y="0">I want to know more</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
