@@ -1,115 +1,101 @@
 ---
 description: >-
-  We are the AMM platform for the people’s
-  DeFi.                                                                                     
-  JavaSwap is the people’s DeFi, and JAVA is their token.
+  Somos la plataforma AMM para el DeFi de la
+  gente.                                                                             
+  JavaSwap es el DeFi de la gente y JAVA es su token.
 ---
 
-# JavaSwap Intro
+# ☕ Introducción a JavaSwap
 
 
 
 ![](.gitbook/assets/grupo-1113.png)
 
-JavaSwap is a cutting edge AMM and yield farm on Polygon \(MATIC\) with the fastest transaction speeds, the cheapest fees and the most intuitive user interface. JavaSwap is the people’s token, allowing anyone to rapidly swap without paying overly expensive fees. Here are some of its most unbeatable features:                             
+JavaSwap es una AMM de vanguardia y una granja de rendimiento en Polygon \(MATIC\) con las velocidades de transacción más rápidas, las tarifas más económicas y la interfaz de usuario más intuitiva. JavaSwap es el token de la gente, lo que permite que cualquiera pueda intercambiar rápidamente sin pagar tarifas demasiado caras. Estas son algunas de sus características más inmejorables:
 
- ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tiempos de transacción ultrarrápidos
 
- ![](.gitbook/assets/grupo-1115.png) - Ultra low transaction fees.
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tarifas de transacción ultrabajas
 
- ![](.gitbook/assets/grupo-1115.png) - Faster and cheaper than both Uniswap and PancakeSwap
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Más rápido y económico que Uniswap y PancakeSwap
 
- ![](.gitbook/assets/grupo-1115.png) - Simple user interface for smooth user experience
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Interfaz de usuario simple para una experiencia de usuario fluida
 
- ![](.gitbook/assets/grupo-1115.png) - ERC-20 compatible
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Compatible con ERC-20
 
- ![](.gitbook/assets/grupo-1115.png) - High yield farming on Java Farm
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Agricultura de alto rendimiento en Java Farm
 
- ![](.gitbook/assets/grupo-1115.png) - Professionally audited smart contracts
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Contratos inteligentes auditados profesionalmente
 
- ![](.gitbook/assets/grupo-1115.png) - Rigorous security mechanisms ensuring community confidence
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Mecanismos de seguridad rigurosos que garantizan la confianza de la comunidad
 
-Our mission is to onboard a new generation of DeFi users with our vast array of innovative DeFi services including, but not limited to: swap, staking, farming, pools and games, which operate as a burning mechanism and much, much more. JavaSwap combines minimum user effort with maximum operational efficiency, streamlining AMM trading and onboarding a new generation of DeFi users. 
+Nuestra misión es incorporar a una nueva generación de usuarios de DeFi con nuestra amplia gama de servicios innovadores de DeFi que incluyen, entre otros: intercambio, estaca, agricultura, grupos y juegos, que funcionan como un mecanismo de combustión y mucho, mucho más. JavaSwap combina el mínimo esfuerzo del usuario con la máxima eficiencia operativa, agilizando el comercio de AMM e incorporando una nueva generación de usuarios de DeFi.
 
-![](.gitbook/assets/grupo-2424.png)
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z-O3XAwHl25YZu%2FGrupo%202424.png?alt=media&token=8308d7e7-6ef8-40b7-80b9-5839ee8426a5)
 
-Due to JavaSwap being part of the MATIC network, JavaSwap has the lowest transaction costs out of all the AMM’s, being much cheaper than both Ethereum based AMM’s such as Uniswap and even Binance Smart Chain based AMM’s such as PancakeSwap. We are the future of DeFi, and the future of DeFi is us! No other DEX or AMM can compete with our suite of services and our formation of future-proofed, formidable features. Buy now whilst the coffees are hot!
+Debido a que JavaSwap es parte de la red MATIC, JavaSwap tiene los costos de transacción más bajos de todos los AMM, siendo mucho más barato que los AMM basados ​​en Ethereum como Uniswap e incluso los AMM basados ​​en Binance Smart Chain como PancakeSwap. ¡Somos el futuro de DeFi, y el futuro de DeFi somos nosotros! Ningún otro DEX o AMM puede competir con nuestro conjunto de servicios y nuestra formación de características formidables y preparadas para el futuro. ¡Cómpralo ahora mientras los cafés están calientes!
 
-![](.gitbook/assets/trazado-16776.png)
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst54Sr4pQ7X1Sg6s%2FGrupo%202725.png?alt=media&token=fc042acc-db04-4301-bad7-ab06dd869206) Gana fichas con Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
 
-### ![](.gitbook/assets/grupo-2725.png)  Earn tokens with Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
+¡JAVA es un símbolo para la gente, traído por la gente y amontonado entre la gente! Apuesta JAVA y gana tokens. Los poseedores de Java pueden obtener ganancias cada semana con solo tener JAVA. Aquí en JavaSwap, estamos creando un ecosistema diverso con nuevos proyectos para intercambiar tokens y crear oportunidades rentables. Construye nuestra comunidad DeFi proporcionando liquidez.
 
-JAVA is a token for the people, brought by the people and hodled amongst the people! Stake JAVA and earn tokens. Java holders can earn profits each week just by holding JAVA. Here at JavaSwap, we’re creating a diverse ecosystem with new projects in order to interchange tokens and create profitable opportunities. Build our DeFi community by providing liquidity.
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst55ZqSHroenrlkb%2FGrupo%202806.png?alt=media&token=0fd4109d-fd03-4b1e-a517-241c41e2f36f) Obtenga JAVA con Java Farms <a id="earn-java-with-java-farms"></a>
 
-###  ![](.gitbook/assets/grupo-2806.png)  Earn JAVA with Java Farms 
+¡Apuesta fichas LP y gana JAVA! Aunque las fluctuaciones del mercado afectan más a las granjas, este riesgo se equilibra con rendimientos aún mayores. ¡Para ganar JAVA solo agregue liquidez a nuestro intercambio!
 
-Stake LP tokens and earn JAVA! Although market fluctuations affect the farms more, this risk is balanced by even higher returns. To earn JAVA just add liquidity to our exchange!
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-Mgq0hrHn3eMTu40BM2F%2F-Mgq19jtiT-s4WMBEoxo%2FGrupo%202835.png?alt=media&token=0d11a7fb-ad22-4b73-b57c-b8911643c3c5) Gane tarifas de transacción <a id="earn-transaction-fees"></a>
 
-### ![](.gitbook/assets/grupo-2835.png)   Earn transaction fees
+Incluso si aún no existe un par en Java Farms, aún puede ganar tarifas comerciales después de apostar sus tokens en nuestros LP.![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-MgpwbqryR8usxQ7zw3t%2FTrazado%2016776.png?alt=media&token=042d0370-c6cb-446a-8451-fb21f942d23e)
 
-Even if a pair doesn’t exist yet on Java Farms, you can still earn trading fees after you stake your       tokens to our LPs.
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z0V_LcPGWlqaVq%2FGrupo%202647.png?alt=media&token=297b2c35-dd8a-4aa9-9344-2edec76f9559)
 
-![](.gitbook/assets/trazado-16776.png)
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4pcxkAB9qNsK-h%2FGrupo%202839.png?alt=media&token=e0088628-b1ef-498d-8c9d-274e2835329f) AMM <a id="amm"></a>
 
-![](.gitbook/assets/grupo-2647.png)
+Un Creador de mercado automático \(AMM\) es un tipo de intercambio descentralizado sin permiso y automatizado. Proporciona liquidez a través del comercio algorítmico automatizado en comparación con los intercambios centralizados tradicionales que utilizan un sistema de libro de órdenes. Los usuarios suministran tokens a los Liquidity Pools que luego se rigen por una fórmula matemática que calcula algorítmicamente el precio del activo.
 
-### ![](.gitbook/assets/grupo-2839%20%281%29.png)  AMM
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4sGjrb-h9cHUG1%2FGrupo%202850.png?alt=media&token=ef3ee247-f930-417a-aa12-e9ea548bb2a9) JavaSwap <a id="javaswap"></a>
 
-An Automatic Market Maker \(AMM\) is a type of decentralized exchange that is permissionless and automated. It provides liquidity through automated algorithmic trading as opposed to the traditional centralized exchanges which use an order book system. Users supply Liquidity Pools with tokens which are then governed by a mathematical formula which algorithmically computes the asset's price.
+Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
 
-###  ![](.gitbook/assets/grupo-2850.png) JavaSwap
+JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\). JavaSwap le permite proporcionar liquidez a los LP, lo que le permitirá obtener una gran cantidad de Java. También puede cobrar tarifas sobre una parte de las tarifas de transacción de los proveedores de liquidez, ¡ganando aún más!
 
-Swapping and trading tokens on JavaSwap.io is super simple. Once your wallet is connected, you can swap any compatible tokens using JavaSwap. After checking the details of the transaction, including checking your fees, you can then click confirm and finally complete the transaction.
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-Mgq38KMO7jV9DA7vklk%2F-Mgq6FZ3S9p5lMEHlm7k%2FGrupo%202660.svg?alt=media&token=484b6332-c8b6-4a66-9446-b86fdb67cee2)
 
-JavaSwap is an AMM that allows you to swap cryptocurrencies using Polygon \(Matic Network\). JavaSwap allows you to provide liquidity to LPs which will then earn you a lot of Java! You can also collect fees on a portion of the transaction fees of liquidity providers, earning even more!
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4terS-5JU6K5r4%2FGrupo%202859.png?alt=media&token=8a1ad377-298b-49a5-83c7-3ca71f3ad39b) Funciones DEX <a id="dex-features"></a>
 
-![](.gitbook/assets/grupo-2660.svg)
+Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
 
-### ![](.gitbook/assets/grupo-2859.png)  DEX Features
+JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\).
 
-Swapping and trading tokens on JavaSwap.io is super simple. Once your wallet is connected, you can swap any compatible tokens using JavaSwap. After checking the details of the transaction, including checking your fees, you can then click confirm and finally complete the transaction.
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z2cDQ44t9990z_%2FRect%C3%A1ngulo%20586.png?alt=media&token=e1a70b6e-3650-420a-a00b-90eeac8aa241)
 
-JavaSwap is an AMM that allows you to swap cryptocurrencies using Polygon \(Matic Network\).
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst53jKPaJ3x930pw%2FGrupo%202671.png?alt=media&token=673dcc6e-3101-4af4-93c0-ec286f0bf363) Piscinas de expreso <a id="espresso-pools"></a>
 
-![](.gitbook/assets/rectangulo-586.png)
+Los fondos de liquidez \(LP\) en JavaSwap se conocen como grupos de Espresso, nuestros grupos de Espresso funcionan exactamente de la misma manera que los grupos tradicionales de Uniswap y PancakeSwap. Entonces, cualquiera puede proporcionar liquidez a través de sus tokens y ganar JAVA. Cualquier usuario de JavaSwap puede colocar sus tokens en cualquier grupo que tengamos disponible.
 
-### ![](.gitbook/assets/grupo-2671.png)  Espresso Pools
+¡Elija su grupo, apueste sus tokens, luego siéntese y observe cómo se acumula su JAVA! Los grupos de expreso le permiten apostar sus tokens en grupos abiertos y obtener ganancias masivas a través del token de JAVA. El proceso es simple e instantáneo, coloque sus tokens en el grupo correspondiente y luego instantáneamente comenzará a ganar rendimiento de JAVA basado en la cantidad total apostada.
 
-The Liquidity Pools \(LPs\) on JavaSwap are known as Espresso pools, our Espresso pools function the exact same way as traditional pools on Uniswap and PancakeSwap. So anyone can provide liquidity via their tokens and earn JAVA. Any JavaSwap user can place their tokens in any pool we have available.
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-MgqZguN9eEYmZVQVth1%2FGrupo%202674.jpg?alt=media&token=c7971659-d0ca-4df8-bc3d-96983cfde2a3)
 
-Choose your pool, stake your tokens, then sit back and watch your JAVA accumulate! Espresso pools allow you to stake your tokens in open pools and earn massive returns via the JAVA token. The process is simple and instant, place your tokens in the corresponding pool and then you'll instantly start earning JAVA yield based on the total amount staked.
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z37FAjsCN3toJp%2FRect%C3%A1ngulo%20592.png?alt=media&token=ae15b231-aa47-4fd7-b19f-34d4de3a5a17)
 
-![](.gitbook/assets/grupo-2674.jpg)
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4v9JtJTLAUs1lr%2FGrupo%202864.png?alt=media&token=d3b74422-baf2-42fa-846b-cc1f3a133ce9) Granja Java <a id="java-farm"></a>
 
-![](.gitbook/assets/trazado-16776.png)
+Hola agricultores de JAVA, ¡es hora de cosechar algo de liquidez para obtener un buen rendimiento de JAVA! Para cultivar JAVA, debe proporcionar liquidez a uno de los tokens disponibles en el grupo de Espresso que puede encontrar en la página de la granja. Los usuarios de JavaSwap deberán asignar sus 2 tokens en diferentes granjas en cantidades proporcionales.
 
-![](.gitbook/assets/rectangulo-592.png)
+Después de proporcionar liquidez y recibir sus tokens JAVA LP, seleccione el grupo en la página de la granja, apruebe el contrato y haga clic en el signo más, elija la cantidad que desea apostar y luego confirme la aprobación.
 
-### ![](.gitbook/assets/grupo-2864.png) Java Farm
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-MgqZguN9eEYmZVQVth1%2FGrupo%202674.jpg?alt=media&token=c7971659-d0ca-4df8-bc3d-96983cfde2a3)
 
-Hello JAVA farmers, it’s time to harvest some liquidity for a nice JAVA yield! In order to farm JAVA you need to provide liquidity to one of the available tokens in the Espresso pool which you can find on the farm page. JavaSwap users will need to allocate their 2 tokens in different farms in proportional amounts.
+## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4wt1F1t_WYpqV6%2FGrupo%202865.png?alt=media&token=b00edb47-ab28-463b-9cdb-a0e1832e21a9) Juegos <a id="games"></a>
 
-After providing liquidity and receiving your JAVA LP tokens, please select the pool from the farm page, approve the contract and click the plus sign, choosing the amount you want to stake and then confirm approval.
+Te ofrecemos los mejores juegos para que aproveches y uses nuestro token de la manera más divertida posible. No te conformes con uno si puedes probar los 3 juegos que javaswap desarrolló para ti.
 
-![](.gitbook/assets/grupo-2674.jpg)
+Aprender más acerca de:
 
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-Mgq_vttrPCXq_ZBYNmF%2FGrupo%202687.jpg?alt=media&token=b9c37179-4ca2-4339-ad64-62deadf2c414)
 
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-Mgq_s20ZJ92PrhvkVk_%2FGrupo%202692.jpg?alt=media&token=83fb4c4a-6144-4e37-ba66-b207346b260f)
 
-![](.gitbook/assets/trazado-16776.png)
-
-![](.gitbook/assets/grupo-2975.png)
-
-### ![](.gitbook/assets/grupo-2865.png)  Games
-
-We offer the best games for you to take advantage and use our token in the most fun way possible. Don't settle for one if you can try the 3 games that javaswap developed for you.
-
-Learn more about:
-
-![](.gitbook/assets/grupo-2682%20%281%29.jpg)
-
-![](.gitbook/assets/grupo-2687.jpg)
-
-![](.gitbook/assets/grupo-2692.jpg)
-
-
+![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-Mgq_yf_cDz1wA24yBj2%2FGrupo%202682.jpg?alt=media&token=e32063fa-a7d1-43f5-a89c-8560cc3159c9)
 

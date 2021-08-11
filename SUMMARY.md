@@ -1,5 +1,5 @@
 # Table of contents
 
-* [JavaSwap Intro](README.md)
+* [☕ Introducción a JavaSwap](README.md)
 * [🚀  Lanzamiento](lanzamiento.md)
 
