@@ -59,7 +59,7 @@ Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su 
 
 JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\). JavaSwap le permite proporcionar liquidez a los LP, lo que le permitirá obtener una gran cantidad de Java. También puede cobrar tarifas sobre una parte de las tarifas de transacción de los proveedores de liquidez, ¡ganando aún más!
 
-![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-Mgq38KMO7jV9DA7vklk%2F-Mgq6FZ3S9p5lMEHlm7k%2FGrupo%202660.svg?alt=media&token=484b6332-c8b6-4a66-9446-b86fdb67cee2)
+![](.gitbook/assets/grupo-2660%20%281%29.svg)
 
 ## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4terS-5JU6K5r4%2FGrupo%202859.png?alt=media&token=8a1ad377-298b-49a5-83c7-3ca71f3ad39b) Funciones DEX <a id="dex-features"></a>
 
