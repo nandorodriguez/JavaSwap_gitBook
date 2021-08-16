@@ -9,4 +9,9 @@
   * [Expresso Pool](servicios/expresso-pool.md)
   * [JavaFlip](servicios/javaflip.md)
   * [JavaBid](servicios/javabid.md)
+* [🤓 Smart contracts](smart-contracts.md)
+* [📲 Social Media and Contact](social-media-and-contact.md)
+* [🎓 JAVAcademy](javacademy.md)
+* [❓ FAQ](faq.md)
+* [💪 Team](team.md)
 
