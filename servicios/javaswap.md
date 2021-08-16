@@ -4,7 +4,7 @@ description: JavaSwap será el AMM número uno en Matic.
 
 # JavaSwap
 
-![](.gitbook/assets/rectangulo-19.jpg)
+![](../.gitbook/assets/rectangulo-19.jpg)
 
 JavaSwap está diseñado para facilitar transacciones rápidas fuera de la cadena, haciéndolas rápidas y rentables para los intercambios de tokens basados ​​en blockchain.
 
@@ -16,7 +16,7 @@ El intercambio de tokens en JavaSwap es similar al intercambio en Uniswap o Panc
 
 Antes de ejecutar cualquier intercambio, necesita una billetera Metamask, como se indicó anteriormente.   
 
-![](.gitbook/assets/grupo-3006.svg)
+![](../.gitbook/assets/grupo-3006.svg)
 
 
 
