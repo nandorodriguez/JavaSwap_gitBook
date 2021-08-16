@@ -1,6 +1,6 @@
 # Expresso Pool
 
-![](.gitbook/assets/rectangulo-30.jpg)
+![](../.gitbook/assets/rectangulo-30.jpg)
 
 ¡Sin embargo, las recompensas no terminan aquí! Puedes ganar aún más apostando tus tokens JAVA en Espresso Pool.
 
