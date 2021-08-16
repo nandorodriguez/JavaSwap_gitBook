@@ -35,33 +35,33 @@ Nuestra misión es incorporar a una nueva generación de usuarios de DeFi con nu
 
 Debido a que JavaSwap es parte de la red MATIC, JavaSwap tiene los costos de transacción más bajos de todos los AMM, siendo mucho más barato que los AMM basados ​​en Ethereum como Uniswap e incluso los AMM basados ​​en Binance Smart Chain como PancakeSwap. ¡Somos el futuro de DeFi, y el futuro de DeFi somos nosotros! Ningún otro DEX o AMM puede competir con nuestro conjunto de servicios y nuestra formación de características formidables y preparadas para el futuro. ¡Cómpralo ahora mientras los cafés están calientes!
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst54Sr4pQ7X1Sg6s%2FGrupo%202725.png?alt=media&token=fc042acc-db04-4301-bad7-ab06dd869206) Gana fichas con Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
+## ​![](.gitbook/assets/grupo-2453.svg) Gana fichas con Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
 
 ¡JAVA es un símbolo para la gente, traído por la gente y amontonado entre la gente! Apuesta JAVA y gana tokens. Los poseedores de Java pueden obtener ganancias cada semana con solo tener JAVA. Aquí en JavaSwap, estamos creando un ecosistema diverso con nuevos proyectos para intercambiar tokens y crear oportunidades rentables. Construye nuestra comunidad DeFi proporcionando liquidez.
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst55ZqSHroenrlkb%2FGrupo%202806.png?alt=media&token=0fd4109d-fd03-4b1e-a517-241c41e2f36f) Obtenga JAVA con Java Farms <a id="earn-java-with-java-farms"></a>
+## ​![](.gitbook/assets/grupo-2533.svg) Obtenga JAVA con Java Farms <a id="earn-java-with-java-farms"></a>
 
 ¡Apuesta fichas LP y gana JAVA! Aunque las fluctuaciones del mercado afectan más a las granjas, este riesgo se equilibra con rendimientos aún mayores. ¡Para ganar JAVA solo agregue liquidez a nuestro intercambio!
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-Mgq0hrHn3eMTu40BM2F%2F-Mgq19jtiT-s4WMBEoxo%2FGrupo%202835.png?alt=media&token=0d11a7fb-ad22-4b73-b57c-b8911643c3c5) Gane tarifas de transacción <a id="earn-transaction-fees"></a>
+## ​![](.gitbook/assets/grupo-2561.svg) Gane tarifas de transacción <a id="earn-transaction-fees"></a>
 
 Incluso si aún no existe un par en Java Farms, aún puede ganar tarifas comerciales después de apostar sus tokens en nuestros LP.![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-MgpwbqryR8usxQ7zw3t%2FTrazado%2016776.png?alt=media&token=042d0370-c6cb-446a-8451-fb21f942d23e)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z0V_LcPGWlqaVq%2FGrupo%202647.png?alt=media&token=297b2c35-dd8a-4aa9-9344-2edec76f9559)
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4pcxkAB9qNsK-h%2FGrupo%202839.png?alt=media&token=e0088628-b1ef-498d-8c9d-274e2835329f) AMM <a id="amm"></a>
+## ​![](.gitbook/assets/grupo-2565.svg) AMM <a id="amm"></a>
 
 Un Creador de mercado automático \(AMM\) es un tipo de intercambio descentralizado sin permiso y automatizado. Proporciona liquidez a través del comercio algorítmico automatizado en comparación con los intercambios centralizados tradicionales que utilizan un sistema de libro de órdenes. Los usuarios suministran tokens a los Liquidity Pools que luego se rigen por una fórmula matemática que calcula algorítmicamente el precio del activo.
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4sGjrb-h9cHUG1%2FGrupo%202850.png?alt=media&token=ef3ee247-f930-417a-aa12-e9ea548bb2a9) JavaSwap <a id="javaswap"></a>
+## ​![](.gitbook/assets/grupo-2658.svg) JavaSwap <a id="javaswap"></a>
 
 Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
 
 JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\). JavaSwap le permite proporcionar liquidez a los LP, lo que le permitirá obtener una gran cantidad de Java. También puede cobrar tarifas sobre una parte de las tarifas de transacción de los proveedores de liquidez, ¡ganando aún más!
 
-![](.gitbook/assets/grupo-2660%20%281%29.svg)
+![](.gitbook/assets/grupo-2660%20%282%29.svg)
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4terS-5JU6K5r4%2FGrupo%202859.png?alt=media&token=8a1ad377-298b-49a5-83c7-3ca71f3ad39b) Funciones DEX <a id="dex-features"></a>
+## ​![](.gitbook/assets/grupo-2668.svg) Funciones DEX <a id="dex-features"></a>
 
 Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
 
@@ -69,7 +69,7 @@ JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Ma
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z2cDQ44t9990z_%2FRect%C3%A1ngulo%20586.png?alt=media&token=e1a70b6e-3650-420a-a00b-90eeac8aa241)
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst53jKPaJ3x930pw%2FGrupo%202671.png?alt=media&token=673dcc6e-3101-4af4-93c0-ec286f0bf363) Piscinas de expreso <a id="espresso-pools"></a>
+## ​![](.gitbook/assets/grupo-2671.svg) Piscinas de expreso <a id="espresso-pools"></a>
 
 Los fondos de liquidez \(LP\) en JavaSwap se conocen como grupos de Espresso, nuestros grupos de Espresso funcionan exactamente de la misma manera que los grupos tradicionales de Uniswap y PancakeSwap. Entonces, cualquiera puede proporcionar liquidez a través de sus tokens y ganar JAVA. Cualquier usuario de JavaSwap puede colocar sus tokens en cualquier grupo que tengamos disponible.
 
@@ -79,7 +79,7 @@ Los fondos de liquidez \(LP\) en JavaSwap se conocen como grupos de Espresso, nu
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z37FAjsCN3toJp%2FRect%C3%A1ngulo%20592.png?alt=media&token=ae15b231-aa47-4fd7-b19f-34d4de3a5a17)
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4v9JtJTLAUs1lr%2FGrupo%202864.png?alt=media&token=d3b74422-baf2-42fa-846b-cc1f3a133ce9) Granja Java <a id="java-farm"></a>
+## ​![](.gitbook/assets/grupo-2695.svg) Granja Java <a id="java-farm"></a>
 
 Hola agricultores de JAVA, ¡es hora de cosechar algo de liquidez para obtener un buen rendimiento de JAVA! Para cultivar JAVA, debe proporcionar liquidez a uno de los tokens disponibles en el grupo de Espresso que puede encontrar en la página de la granja. Los usuarios de JavaSwap deberán asignar sus 2 tokens en diferentes granjas en cantidades proporcionales.
 
@@ -87,7 +87,7 @@ Después de proporcionar liquidez y recibir sus tokens JAVA LP, seleccione el gr
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-MgqZguN9eEYmZVQVth1%2FGrupo%202674.jpg?alt=media&token=c7971659-d0ca-4df8-bc3d-96983cfde2a3)
 
-## ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst4wt1F1t_WYpqV6%2FGrupo%202865.png?alt=media&token=b00edb47-ab28-463b-9cdb-a0e1832e21a9) Juegos <a id="games"></a>
+## ​![](.gitbook/assets/grupo-2868.svg) Juegos <a id="games"></a>
 
 Te ofrecemos los mejores juegos para que aproveches y uses nuestro token de la manera más divertida posible. No te conformes con uno si puedes probar los 3 juegos que javaswap desarrolló para ti.
 
