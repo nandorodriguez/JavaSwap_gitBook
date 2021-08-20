@@ -10,8 +10,8 @@
   * [JavaFlip](servicios/javaflip.md)
   * [JavaBid](servicios/javabid.md)
 * [🤓 Smart contracts](smart-contracts.md)
-* [📲 Social Media and Contact](social-media-and-contact.md)
+* [📲 Redes sociales y contacto](social-media-and-contact.md)
 * [🎓 JAVAcademy](javacademy.md)
-* [❓ FAQ](faq.md)
+* [❓ Preguntas Frecuentes](faq.md)
 * [💪 Team](team.md)
 

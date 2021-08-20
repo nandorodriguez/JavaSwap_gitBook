@@ -1,8 +1,7 @@
 ---
 description: >-
-  Somos la plataforma AMM para el DeFi de la
-  gente.                                                                             
-  JavaSwap es el DeFi de la gente y JAVA es su token.
+  “Somos un Exchange Descentralizado pensado para ti” Somos JavaSwap, una
+  plataforma DeFi pensada para todos y JAVA es nuestro token.
 ---
 
 # ☕ Introducción a JavaSwap
@@ -11,53 +10,55 @@ description: >-
 
 ![](.gitbook/assets/grupo-1113.png)
 
-JavaSwap es una AMM de vanguardia y una granja de rendimiento en Polygon \(MATIC\) con las velocidades de transacción más rápidas, las tarifas más económicas y la interfaz de usuario más intuitiva. JavaSwap es el token de la gente, lo que permite que cualquiera pueda intercambiar rápidamente sin pagar tarifas demasiado caras. Estas son algunas de sus características más inmejorables:
+JavaSwap es un Exchange Descentralizado en la red Polygon \(MATIC\) que cuenta con transacciones más rápidas, tarifas más económicas y una interfaz de usuario intuitiva. JavaSwap es el token de todos, que permite a cualquier persona intercambiar criptoactivos fácilmente, sin tener que pagar tarifas excesivamente altas. Estas son algunas de sus características más destacables:
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tiempos de transacción ultrarrápidos
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tiempos ultra rápidos
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tarifas de transacción ultrabajas
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Tarifas de transacción ultra bajas
 
 ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Más rápido y económico que Uniswap y PancakeSwap
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Interfaz de usuario simple para una experiencia de usuario fluida
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Interfaz de usuario sencilla para una experiencia de usuario fluida
 
 ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Compatible con ERC-20
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Agricultura de alto rendimiento en Java Farm
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Granjas de alto rendimiento en Java Farm
 
 ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Contratos inteligentes auditados profesionalmente
 
-​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Mecanismos de seguridad rigurosos que garantizan la confianza de la comunidad
+​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpst51MWjGqdJ2ATmZ%2FGrupo%201115.png?alt=media&token=8b92d7a1-64b5-4455-8613-1b25941e542e) Mecanismos de seguridad que garantizan la confianza de la comunidad
 
-Nuestra misión es incorporar a una nueva generación de usuarios de DeFi con nuestra amplia gama de servicios innovadores de DeFi que incluyen, entre otros: intercambio, estaca, agricultura, grupos y juegos, que funcionan como un mecanismo de combustión y mucho, mucho más. JavaSwap combina el mínimo esfuerzo del usuario con la máxima eficiencia operativa, agilizando el comercio de AMM e incorporando una nueva generación de usuarios de DeFi.
+Nuestra misión es crear una nueva generación de usuarios de DeFi con nuestra amplia gama de servicios innovadores que incluyen, Swap, staking, farms, pools, juegos que soportan el mecanismo de quema de tokens y mucho mas .JavaSwap combina el mínimo esfuerzo del usuario con la máxima eficiencia operativa para facilitar el comercio de AMM y la incorporación de una nueva generación de usuarios de DeFi.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z-O3XAwHl25YZu%2FGrupo%202424.png?alt=media&token=8308d7e7-6ef8-40b7-80b9-5839ee8426a5)
 
-Debido a que JavaSwap es parte de la red MATIC, JavaSwap tiene los costos de transacción más bajos de todos los AMM, siendo mucho más barato que los AMM basados ​​en Ethereum como Uniswap e incluso los AMM basados ​​en Binance Smart Chain como PancakeSwap. ¡Somos el futuro de DeFi, y el futuro de DeFi somos nosotros! Ningún otro DEX o AMM puede competir con nuestro conjunto de servicios y nuestra formación de características formidables y preparadas para el futuro. ¡Cómpralo ahora mientras los cafés están calientes!
+Debido a que JavaSwap forma parte de la red MATIC, tiene el costo de transacción más bajo de todas las AMM, siendo mucho más económico que las AMM basadas en Ethereum como Uniswap e incluso las AMM basadas en Binance Smart Chain como PancakeSwap. ¡Somos el futuro de las plataformas DeFi, el futuro de DeFi somos todos! Ningún otro DEX o AMM puede competir con nuestro conjunto de servicios y todas nuestras excelentes características ¡Compra java ahora que estamos en crecimiento!
 
 ## ​![](.gitbook/assets/grupo-2453.svg) Gana fichas con Espresso Pools <a id="arn-tokens-with-espresso-pools"></a>
 
-¡JAVA es un símbolo para la gente, traído por la gente y amontonado entre la gente! Apuesta JAVA y gana tokens. Los poseedores de Java pueden obtener ganancias cada semana con solo tener JAVA. Aquí en JavaSwap, estamos creando un ecosistema diverso con nuevos proyectos para intercambiar tokens y crear oportunidades rentables. Construye nuestra comunidad DeFi proporcionando liquidez.
+¡JAVA es un token creado para todos y que se mantenga depende de todos! Si provees liquidez en cualquier token habilitado en nuestros pools, ganarás JAVA. Quienes poseen JAVA pueden obtener beneficios cada semana sólo por tenerlos. En JavaSwap, estamos creando un ecosistema diverso con nuevos proyectos para intercambiar tokens y crear oportunidades rentables. Construye nuestra comunidad DeFi proporcionando liquidez.
 
-## ​![](.gitbook/assets/grupo-2533.svg) Obtenga JAVA con Java Farms <a id="earn-java-with-java-farms"></a>
+## ​![](.gitbook/assets/grupo-2533.svg) Obtenga JAVA con  Yield Farms/ Java Farms <a id="earn-java-with-java-farms"></a>
 
-¡Apuesta fichas LP y gana JAVA! Aunque las fluctuaciones del mercado afectan más a las granjas, este riesgo se equilibra con rendimientos aún mayores. ¡Para ganar JAVA solo agregue liquidez a nuestro intercambio!
+¡¡Cada vez que proveas 2 tokens con igual monto, ganarás JAVA! El riesgo de las fluctuaciones del mercado que afectan a las farms, se compensa con rendimientos aún mayores. Para ganar JAVA, ¡Sólo tiene que añadir liquidez a nuestro Exchange! Gana comisiones por transacción.
 
 ## ​![](.gitbook/assets/grupo-2561.svg) Gane tarifas de transacción <a id="earn-transaction-fees"></a>
 
-Incluso si aún no existe un par en Java Farms, aún puede ganar tarifas comerciales después de apostar sus tokens en nuestros LP.![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-MgpwbqryR8usxQ7zw3t%2FTrazado%2016776.png?alt=media&token=042d0370-c6cb-446a-8451-fb21f942d23e)
+Incluso si aún no existe un par en Java Farms, aún puede ganar tarifas comerciales después de apostar sus tokens en nuestros LP.
+
+Incluso si un par no existe todavía en Java Farms, puedes ganar comisiones de transacción después de proveer tus tokens a nuestros LP.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z0V_LcPGWlqaVq%2FGrupo%202647.png?alt=media&token=297b2c35-dd8a-4aa9-9344-2edec76f9559)
 
 ## ​![](.gitbook/assets/grupo-2565.svg) AMM <a id="amm"></a>
 
-Un Creador de mercado automático \(AMM\) es un tipo de intercambio descentralizado sin permiso y automatizado. Proporciona liquidez a través del comercio algorítmico automatizado en comparación con los intercambios centralizados tradicionales que utilizan un sistema de libro de órdenes. Los usuarios suministran tokens a los Liquidity Pools que luego se rigen por una fórmula matemática que calcula algorítmicamente el precio del activo.
+Un Creador de Mercado Automático \(AMM\) es un tipo de exchange descentralizado y autónomo que proporciona liquidez a través de la comercialización algorítmica automatizada a diferencia de las bolsas centralizadas tradicionales que utilizan un sistema de libro de órdenes. Los usuarios suministran fondos de liquidez con tokens que se rigen por una fórmula matemática que calcula algorítmicamente el precio de los activos.
+
+JavaSwap es un AMM que permite intercambiar criptodivisas utilizando la red Polygon. Además, te permite proporcionar liquidez a los pools y así ganar muchos más JAVA! También puedes cobrar comisiones sobre una parte de las tasas de transacción de los proveedores de liquidez, ¡ganando aún más!
 
 ## ​![](.gitbook/assets/grupo-2658.svg) JavaSwap <a id="javaswap"></a>
 
-Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
-
-JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\). JavaSwap le permite proporcionar liquidez a los LP, lo que le permitirá obtener una gran cantidad de Java. También puede cobrar tarifas sobre una parte de las tarifas de transacción de los proveedores de liquidez, ¡ganando aún más!
+Intercambiar tokens en JavaSwap.io es muy sencillo. Una vez que tu wallet esté conectada, puedes intercambiar cualquier token compatible utilizando JavaSwap y luego verificar los detalles, las tarifas y, si estás de acuerdo, completar la transacción.
 
 ![](.gitbook/assets/grupo-2660%20%282%29.svg)
 
