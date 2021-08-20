@@ -4,8 +4,9 @@
 
 ![](../.gitbook/assets/grupo-241.jpg)
 
-JavaFlip es un juego en el JavaSwap AMM que te permite divertirte mientras lanzas monedas. Lanza una moneda y gana JAVA si ganas tu apuesta. Si ganas, ¡obtendrás el doble de tu apuesta inicial! ¡Lanza una moneda para ganar! \(Próximamente\).  
+JavaFlip es un juego en el JavaSwap AMM que te permite divertirte mientras haces tus apuestas. Lance una moneda y gane JAVA si gana su apuesta. Si gana, ¡obtendrá el doble de su apuesta inicial!
 
+Por ejemplo: Al apostar 1 JAVA, recibirá 1,9305 JAVA de vuelta. El 5% de los JAVA se quema y otro 1% se utiliza para el impuesto de transferencia si gana\) Este mecanismo de quema también aumenta la escasez de JAVA.
 
 ### Cómo jugar JavaFlip?
 

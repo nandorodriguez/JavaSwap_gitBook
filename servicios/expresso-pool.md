@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/rectangulo-30.jpg)
 
-¡Sin embargo, las recompensas no terminan aquí! Puedes ganar aún más apostando tus tokens JAVA en Espresso Pool.
+Puedes ganar aún más recompensas suministrando tus Tokens Java en Java Brew/ Espresso Pool
 
 ### ¿Cómo agregar liquidez?
 
