@@ -4,7 +4,7 @@ description: >-
   parte de la ética central de nuestro equipo. Aquí nuestra hoja de ruta:
 ---
 
-# Road Map
+# 👷‍♂️Road Map
 
 Más que una hoja de ruta, se trata también de una lista de tareas que queremos completar. La prioridad depende de lo que consideremos más importante, junto con las peticiones y los comentarios de la comunidad.
 
