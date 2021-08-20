@@ -2,6 +2,7 @@
 
 * [☕ JavaSwap Intro](README.md)
 * [🚀 Launch](master.md)
+* [💰Javanomics](javanomics-1.md)
 * [🤠  Services](services/README.md)
   * [JavaFlip](services/javaflip.md)
   * [JavaBid](services/javabid.md)
@@ -17,5 +18,4 @@
 * [👊Getting started](getting-started.md)
 * [🔒Security](security.md)
 * [👷‍♂️Road Map](road-map.md)
-* [💰Javanomics](javanomics.md)
 

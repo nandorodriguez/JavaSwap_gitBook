@@ -30,6 +30,5 @@ One of the features we’re providing to protect the community is that we will u
 
 Another anti-whale feature is that our presale prevents whales from buying massive amounts at a discounted price by limiting the orders per account, so a whale can not use an account to purchase lots of small orders to keep the initial token offering price \(10 JAVA for 1 MATIC or 5 JAVA for 1 USDC.\) Since JAVA is the people’s token, we have created a fair and level playing field to ensure that smaller investors will flourish and that a small group of whales will not dominate and hold a large majority of the token supply. 
 
-Anti-bot mechanism- We use a sophisticated CAPTCHA system to prevent bots from placing any orders. \(Coming soon\)  
-
+Anti-bot mechanism- We use a sophisticated CAPTCHA system to prevent bots from placing any orders. \(Coming soon\)
 
