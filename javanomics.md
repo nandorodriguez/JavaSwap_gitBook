@@ -1,4 +1,4 @@
-# Javanomics
+# 💰Javanomics
 
 Skip this section till Andres/ Carlos inform me of the tokenomics they decide upon. However there is a file with all this information in the JAVASWAP folder, but obviously will need to be changed once they finalised. Then maybe I can add this information.
 

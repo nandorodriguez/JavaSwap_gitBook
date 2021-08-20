@@ -14,8 +14,8 @@
 * [🎓  JAVAcademy](javacademy.md)
 * [❓  FAQ](faq.md)
 * [💪  Team](team.md)
-* [Getting started](getting-started.md)
-* [Security](security.md)
-* [Road Map](road-map.md)
-* [Javanomics](javanomics.md)
+* [👊Getting started](getting-started.md)
+* [🔒Security](security.md)
+* [👷‍♂️Road Map](road-map.md)
+* [💰Javanomics](javanomics.md)
 
