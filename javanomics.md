@@ -38,13 +38,5 @@ Cada vez que se realiza una transacción de intercambio se genera una pequeña c
 
 Para el equipo de JavaSwap y su comunidad, es realmente importante que tengamos un mecanismo de distribución y preventa justa para evitar que las ballenas manipulen los precios. Por lo tanto, contamos con múltiples mecanismos anti-ballenas. Si desea obtener más información, haga clic en el enlace a continuación. \(Coloque un hipervínculo a la página de mecanismos anti-ballenas que aparece en seguridad\).
 
-### **Road Map**
-
-En JavaSwap, movilizarse rápidamente para añadir nuevas características forma parte de la ética central de nuestro equipo. Aquí nuestra hoja de ruta:
-
-
-
-
-
 \*\*\*\*
 
