@@ -16,4 +16,5 @@
 * [💪 Team](team.md)
 * [Javanomics](javanomics.md)
 * [Road Map](road-map.md)
+* [Seguridad](seguridad.md)
 
