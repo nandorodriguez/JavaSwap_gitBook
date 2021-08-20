@@ -8,7 +8,7 @@ We recommend Metamask for simple setup and ease of use:
 
 First, download Metamask for your browser. Make sure you download the correct Metamask extension for your browser and that you download it from the real website. Next, click create wallet, then follow the instructions on Metamask. You need to make a strong password, then write down your backup seed. This seed is essential as it allows you to recover your funds if you ever lose or forget your password.  Never send your password or backup seed to anybody as this will allow them to steal your money. Once you’ve successfully set up Metamask and made your password, stored your seed safely on paper, then you can go to the Javaswap website and click the Connect Wallet button. Now you’re connected and ready to receive and send funds!
 
-Polygon \(MATIC\) network also has a very in depth guide on how to create and configure MATIC on metamask.  
+Polygon \(MATIC\) network also has a very in depth guide on how to create and configure MATIC on metamask.   
 Metamask creation guide: [https://docs.matic.network/docs/develop/metamask/hello](https://docs.matic.network/docs/develop/metamask/hello) Configuring MATIC on metamask guide: [https://docs.matic.network/docs/develop/metamask/config-matic](https://docs.matic.network/docs/develop/metamask/config-matic)
 
 ### **Connecting your wallet to JavaSwap**
