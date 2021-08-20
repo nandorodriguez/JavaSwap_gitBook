@@ -28,6 +28,14 @@ Más que una hoja de ruta, se trata también de una lista de tareas que queremos
 
 ![](.gitbook/assets/image%20%283%29.png) Expresso Pools
 
+![](.gitbook/assets/image%20%283%29.png) Juegos
+
+            ![](.gitbook/assets/image%20%283%29.png) JavaBid
+
+            ![](.gitbook/assets/image%20%283%29.png) Lucky Lotto 
+
+            ![](.gitbook/assets/image%20%283%29.png) JavaFlip coming soon
+
 ![](.gitbook/assets/image%20%283%29.png) Analíticas
 
  ![](.gitbook/assets/image%20%283%29.png) Auditorías
@@ -70,13 +78,7 @@ Más que una hoja de ruta, se trata también de una lista de tareas que queremos
 
 ![](.gitbook/assets/image%20%283%29.png) Binance
 
-![](.gitbook/assets/image%20%283%29.png) Juegos
 
-            ![](.gitbook/assets/image%20%283%29.png) JavaBid
-
-            ![](.gitbook/assets/image%20%283%29.png) Lucky Lotto 
-
-            ![](.gitbook/assets/image%20%283%29.png) JavaFlip coming soon
 
 
 
