@@ -14,4 +14,5 @@
 * [🎓 JAVAcademy](javacademy.md)
 * [❓ Preguntas Frecuentes](faq.md)
 * [💪 Team](team.md)
+* [Javanomics](javanomics.md)
 

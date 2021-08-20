@@ -62,9 +62,9 @@ Intercambiar tokens en JavaSwap.io es muy sencillo. Una vez que tu wallet esté 
 
 ![](.gitbook/assets/grupo-2660%20%282%29.svg)
 
-## ​![](.gitbook/assets/grupo-2668.svg) Funciones DEX <a id="dex-features"></a>
+## ​![](.gitbook/assets/grupo-2668.svg) Características DEX <a id="dex-features"></a>
 
-Intercambiar e intercambiar tokens en JavaSwap.io es muy simple. Una vez que su billetera esté conectada, puede intercambiar cualquier token compatible usando JavaSwap. Después de verificar los detalles de la transacción, incluida la verificación de sus tarifas, puede hacer clic en confirmar y finalmente completar la transacción.
+Tener nuestro propio AMM significa que la liquidez bloqueada en el Espresso Pool le da a Yield Farm independencia y estabilidad; una vez que hayamos acumulado suficiente liquidez, obtendrás abundantes beneficios económicos.
 
 JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Matic Network\).
 
@@ -72,19 +72,19 @@ JavaSwap es un AMM que le permite intercambiar criptomonedas usando Polygon \(Ma
 
 ## ​![](.gitbook/assets/grupo-2671.svg) Piscinas de expreso <a id="espresso-pools"></a>
 
-Los fondos de liquidez \(LP\) en JavaSwap se conocen como grupos de Espresso, nuestros grupos de Espresso funcionan exactamente de la misma manera que los grupos tradicionales de Uniswap y PancakeSwap. Entonces, cualquiera puede proporcionar liquidez a través de sus tokens y ganar JAVA. Cualquier usuario de JavaSwap puede colocar sus tokens en cualquier grupo que tengamos disponible.
+Los Liquidity Pools \(LP's\) o Reservas de liquidez en JavaSwap se conocen como Espresso Pools, nuestros Espresso Pools funcionan exactamente igual que los pools tradicionales en Uniswap y PancakeSwap. Así, cualquier usuario de JavaSwap puede proporcionar liquidez a través de sus tokens y ganar JAVA.
 
-¡Elija su grupo, apueste sus tokens, luego siéntese y observe cómo se acumula su JAVA! Los grupos de expreso le permiten apostar sus tokens en grupos abiertos y obtener ganancias masivas a través del token de JAVA. El proceso es simple e instantáneo, coloque sus tokens en el grupo correspondiente y luego instantáneamente comenzará a ganar rendimiento de JAVA basado en la cantidad total apostada.
+Elige tu pool, provee tus tokens, luego siéntate y ve cómo se acumula tu JAVA. Las Espresso Pools te permiten proveer tus tokens en pools abiertas y obtener enormes beneficios a través de JAVA. El proceso es sencillo e instantáneo, coloca tus tokens en la pool correspondiente y empieza a ganar instantáneamente un rendimiento de JAVA basado en la cantidad total suministrada..
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-MgqZguN9eEYmZVQVth1%2FGrupo%202674.jpg?alt=media&token=c7971659-d0ca-4df8-bc3d-96983cfde2a3)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgppWMUEO8vCg7h7Wug%2F-Mgpt0Z37FAjsCN3toJp%2FRect%C3%A1ngulo%20592.png?alt=media&token=ae15b231-aa47-4fd7-b19f-34d4de3a5a17)
 
-## ​![](.gitbook/assets/grupo-2695.svg) Granja Java <a id="java-farm"></a>
+## ​![](.gitbook/assets/grupo-2695.svg) Granja/Granja Java <a id="java-farm"></a>
 
-Hola agricultores de JAVA, ¡es hora de cosechar algo de liquidez para obtener un buen rendimiento de JAVA! Para cultivar JAVA, debe proporcionar liquidez a uno de los tokens disponibles en el grupo de Espresso que puede encontrar en la página de la granja. Los usuarios de JavaSwap deberán asignar sus 2 tokens en diferentes granjas en cantidades proporcionales.
+Hola granjeros JAVA, es hora de cosechar algo de liquidez para obtener un buen rendimiento JAVA. Para poder cultivar JAVA tienes que proporcionar liquidez a uno de los tokens del Espresso Pool que puedes encontrar en la página de la Farm.
 
-Después de proporcionar liquidez y recibir sus tokens JAVA LP, seleccione el grupo en la página de la granja, apruebe el contrato y haga clic en el signo más, elija la cantidad que desea apostar y luego confirme la aprobación.
+Después de proporcionar liquidez y recibir tus tokens JAVA LP, selecciona el pool en la siguiente página de la Farm, aprueba el contrato y haz clic en el signo más, eligiendo la cantidad que quieres apostar y confirma la acción.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-MgqZguN9eEYmZVQVth1%2FGrupo%202674.jpg?alt=media&token=c7971659-d0ca-4df8-bc3d-96983cfde2a3)
 
@@ -99,4 +99,16 @@ Aprender más acerca de:
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-Mgq_s20ZJ92PrhvkVk_%2FGrupo%202692.jpg?alt=media&token=83fb4c4a-6144-4e37-ba66-b207346b260f)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mgn5KsZA8PO5ZysxMUE%2F-MgqXheutNwzou5rbzfy%2F-Mgq_yf_cDz1wA24yBj2%2FGrupo%202682.jpg?alt=media&token=e32063fa-a7d1-43f5-a89c-8560cc3159c9)
+
+### JavaBid
+
+Ahora supongo que eres una persona muy curiosa y te preguntas qué es JavaBid. Pues bien, JavaBid es el lugar donde los mayores jugadores luchan por una gran recompensa. Cada 15 minutos se reinicia un temporizador de conteo regresivo y comienza la siguiente oferta. Cada oferta debe ser más alta que la última, y la última persona en pie con la oferta final se lleva todo el bote de la riqueza acumulada.
+
+### Lucky Lotto
+
+Apuesto a que te estás preguntando qué más puedes hacer con tu JAVA. Bueno, puedes ingresar a una lotería llamada Lucky Lotto en JavaSwap. Puede ganar el premio mayor \(hasta el 50% de todo el grupo de lotería\)
+
+### **JavaFlip**
+
+JavaFlip es un juego en el JavaSwap AMM que te permite divertirte mientras lanzas monedas. Lanza una moneda y gana JAVA si ganas tu apuesta. Si ganas, ¡obtendrás el doble de tu apuesta inicial! ¡Lanza una moneda para ganar! \(Próximamente\)
 
