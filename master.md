@@ -42,26 +42,3 @@ What price are the tokens at presale?
 
 ![](.gitbook/assets/grupo-1115.png) The price of JAVA is $0.10 USDC up to $1000 worth. Once $1000 is reached the price begins to get higher to prevent whales from scooping up large amounts at a discounted rate.
 
-### Presale Token Distribution **.**
-
-\*\*\*\*![](.gitbook/assets/grupo-1115.png) **70%  Liquidity**
-
-\*\*\*\*![](.gitbook/assets/grupo-1115.png) **10%  Treasury**
-
-\*\*\*\*![](.gitbook/assets/grupo-1115.png) **10%  Marketing**
-
-\*\*\*\*![](.gitbook/assets/grupo-1115.png) **5%    Development**
-
-\*\*\*\*![](.gitbook/assets/grupo-1115.png) **5%    Team**
-
-### Is it a fair launch for everyone?
-
-YES at JavaSwap we have taken great strides to ensure that the launch is fair and equitable for everyone by adding multiple anti-whale mechanisms, anti-bot mechanisms and security measures, so that smaller JAVA holders can yield the benefits of acquiring JAVA without most of the supply being purchased by whales. As the people’s token we know that all people should have fair and equal access to purchasing JAVA. We have designed our platform with these values and principles in mind. 
-
-
-
-
-
-  
-
-
