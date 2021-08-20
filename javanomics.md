@@ -1,4 +1,4 @@
-# Javanomics
+# 💰Javanomics
 
 ###  **JAVA Token**
 

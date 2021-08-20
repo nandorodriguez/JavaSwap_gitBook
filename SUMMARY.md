@@ -2,6 +2,7 @@
 
 * [☕ Introducción a JavaSwap](README.md)
 * [🚀  Lanzamiento](lanzamiento.md)
+* [💰Javanomics](javanomics.md)
 * [🤠  Servicios](servicios/README.md)
   * [JavaSwap](servicios/javaswap.md)
   * [Java Farm](servicios/java-farm.md)
@@ -14,7 +15,6 @@
 * [🎓 JAVAcademy](javacademy.md)
 * [❓ Preguntas Frecuentes](faq.md)
 * [💪 Team](team.md)
-* [Javanomics](javanomics.md)
 * [Road Map](road-map.md)
 * [Seguridad](seguridad.md)
 * [Cómo empezar](como-empezar.md)
